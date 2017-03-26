@@ -10,8 +10,8 @@
 
 - [unsplash](https://unsplash.com/)
 
-- [](https://pixabay.com/)
+- [pixabay](https://pixabay.com/)
 
-- [](https://www.pexels.com/)
+- [pexels](https://www.pexels.com/)
 
-- [](https://visualhunt.com/) 
+- [visualhunt](https://visualhunt.com/) 
