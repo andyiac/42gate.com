@@ -1,22 +1,24 @@
 
-<a name="android"></a>
-# Android 
+<a name="developer"></a>
+# Developer 
 
-## authority
+## Android 
+
+### authority
 
 - [Android Developers](https://developer.android.com/)
 
-## tools
+### tools
 
 - [androiddevtools](http://androiddevtools.cn/)
 
 
-# iOS
+## iOS
 
 - [github.com/trending](https://github.com/trending)
 
 
-# web
+## web
 
 - [75team](https://t.75team.com)
 - [learnlayout](http://learnlayout.com/)
@@ -25,12 +27,12 @@
 - [runoob](http://www.runoob.com/)
 
 
-# ruby
+## ruby
 
 - [ruby-china](https://ruby-china.org)
 
 
-# 算法
+## 算法
 
 - [topcoder](https://www.topcoder.com/)
 - [codeforces](http://codeforces.com/)
@@ -38,7 +40,7 @@
 - [sorting-algorithms](https://www.toptal.com/developers/sorting-algorithms/)
 
 
-# other
+## other
 
 - [reddit](https://www.reddit.com/)
 - [v2ex](https://www.v2ex.com/)
