@@ -4,6 +4,7 @@ echo 'clean index file'
 rm developer/index.html
 rm designer/index.html
 rm productor/index.html
+rm index.html
 echo 'clean done'
 
 echo 'build start'
