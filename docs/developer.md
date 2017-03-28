@@ -4,7 +4,7 @@
 
 ## Android 
 
-### authority
+### offical 
 
 - [Android Developers](https://developer.android.com/)
 
