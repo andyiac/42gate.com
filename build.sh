@@ -20,4 +20,10 @@ cat src/index-header.html >> productor/index.html
 md2html docs/productor.md >> productor/index.html
 cat src/index-footer.html >> productor/index.html
 
+cat src/index-header.html >> index.html
+md2html docs/developer.md >> index.html
+md2html docs/designer.md >> index.html
+md2html docs/productor.md >> index.html
+cat src/index-footer.html >> index.html
+
 echo 'build end'
