@@ -41,7 +41,7 @@
 
 
 ## other
-
+- [news.ycombinator.](https://news.ycombinator.com/)
 - [reddit](https://www.reddit.com/)
 - [v2ex](https://www.v2ex.com/)
 - [tech.meituan](http://tech.meituan.com/)
