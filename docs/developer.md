@@ -24,6 +24,7 @@
 - [learnlayout](http://learnlayout.com/)
 - [html-js](http://www.html-js.com/)
 - [w3school](http://www.w3school.com.cn/index.html)
+- [youmightnotneedjquery]( http://youmightnotneedjquery.com/)
 - [runoob](http://www.runoob.com/)
 
 
