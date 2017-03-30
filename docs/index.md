@@ -1,6 +1,6 @@
 # 42GATE
 
-收集整理 developer productor designer 常用的网站工具.
+Site navigation for developer designer and productors !
 
  [developer](#developer)
  [productor](#productor)
