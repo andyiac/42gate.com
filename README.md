@@ -1,4 +1,5 @@
 # 42gate.com
+Site navigation for developer designer and productors !
 
 [42gate.com](http://www.42gate.com) dedicated to the collection developers, designers, productors site commonly visited products and tools. Of course you have find any good site welcome PR.
 
